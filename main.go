@@ -15,8 +15,8 @@ import (
 	"k8s.io/client-go/rest"
 	"k8s.io/client-go/tools/clientcmd"
 
-	"github.com/linki/chaoskube/chaoskube"
-	"github.com/linki/chaoskube/util"
+	"github.com/klautcomputing/chaoskube/chaoskube"
+	"github.com/klautcomputing/chaoskube/util"
 )
 
 const (
